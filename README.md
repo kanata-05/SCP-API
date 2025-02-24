@@ -13,14 +13,19 @@ Create the site and upload the files (Complete)
 Create the API (Testing)
 
 ### Documentation
+  Functions that are currently available:  
+    `get_info(scp, field, num)`  
+    Where `scp` is the SCP number  
+    `field` is one of the field you can access, [click here for the available field](#fields)
+    `num` is the list object number (of `field`) if the field is not a list, it will be ignored.
+
+### Fields
   Fields that can be accessed:  
-    "URL": URL from where it was scraped  
-    "all_text": Complete text from the page  
-    "addendums": All addendums on the SCP  
-    "documents": All documents on the SCP  
-    "notes": Most of the time, it's about licensing stuff and who made it  
-    "containment_procedures": Containment Procedures for the SCP  
-    "description": Description of the SCP  
-    "title": Title of the tab  
-    
-  Will work on this after the API and site and completed
+    `"URL"`: URL from where it was scraped  
+    `"all_text"`: Complete text from the page  
+    `"addendums"`: All addendums on the SCP  
+    `"documents"`: All documents on the SCP  
+    `"notes"`: Most of the time, it's about licensing stuff and who made it  
+    `"containment_procedures"`: Containment Procedures for the SCP  
+    `"description"`: Description of the SCP  
+    `"title"`: Title of the tab
