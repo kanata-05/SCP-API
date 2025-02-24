@@ -18,7 +18,7 @@ Create the API (Testing)
   Functions that are currently available:  
     `get_info(scp, field, num)`  
     Where `scp` is the SCP number  
-    `field` is one of the field you can access, [click here for the available field](#fields)
+    `field` is one of the field you can access, [click here for the available field](#fields)  
     `num` is the list object number (of `field`) if the field is not a list, it will be ignored.
 
 ### Fields
