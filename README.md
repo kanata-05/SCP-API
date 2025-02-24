@@ -9,7 +9,7 @@ We then upload the information up to our site, where the API pulls the data from
 ## Process
 Create Scraper and get the information (Complete)  
 Create the site and upload the files (Complete)  
-Create the API (Being worked upon)
+Create the API (Testing)
 
 ### Documentation
   Fields that can be accessed:  
