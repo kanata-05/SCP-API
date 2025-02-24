@@ -1,6 +1,7 @@
 # SCP API
 Access information on SCPs through python and javascript! (note: currently being developed, isn't completely released)  
 Currently limited from SCP-001 to SCP-5723, Some field may be broken (or just not exist) and may not have properly been copied (I apologize for that, I am constantly working on it.)  
+https://pypi.org/project/scpfetch/0.1.1/
 
 # How it works
 We first scrapes (Reason why some field might've not been properly copied) the information off from the [SCP wikidot](https://scp-wiki.wikidot.com/) and stores it in a JSON format.  
