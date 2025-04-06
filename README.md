@@ -1,6 +1,6 @@
 # SCP API
 Access information on SCPs through python and javascript!
-Currently limited from SCP-001 to SCP-5723, Some field may be broken (or just not exist) and may not have properly been copied 
+Currently limited from SCP-001 to SCP-5723, Some field may be broken (or just not exist) and may not have properly been copied  
 Install using `pip install scpfetch`! (the name is scpfetch because pypi didn't like scp-api being close to a already existing package nc-scp-api)  
 Import using `import scpfetch`  
 https://pypi.org/project/scpfetch/0.1.1/
@@ -12,7 +12,7 @@ We first scrapes (Reason why some field might've not been properly copied) the i
 We then upload the information up to our site, where the API pulls the data from, inorder to avoid putting load on the [SCP wikidot](https://scp-wiki.wikidot.com/)  
 
 ## Process
-Create Scraper and get the information (Partially finished)  
+Create Scraper and get the information (Complete)  
 Create the site and upload the files (Complete)  
 Create the API (Complete)
 
