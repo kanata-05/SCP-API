@@ -1,6 +1,6 @@
 # SCP API
 Access information on SCPs through python and javascript!
-Currently limited from SCP-001 to SCP-5723, Some field may be broken (or just not exist) and may not have properly been copied  
+Completed, Some field may be broken (or just not exist) and may not have properly been copied  
 Install using `pip install scpfetch`! (the name is scpfetch because pypi didn't like scp-api being close to a already existing package nc-scp-api)  
 Import using `import scpfetch`  
 https://pypi.org/project/scpfetch/0.1.1/
